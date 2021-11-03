@@ -30,7 +30,6 @@ C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\f
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\scopedcss\bundle\financasPrebelli.styles.css
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\staticwebassets\financasPrebelli.StaticWebAssets.Manifest.cache
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.RazorTargetAssemblyInfo.cache
-C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.csproj.CopyComplete
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.dll
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\ref\financasPrebelli.dll
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.pdb

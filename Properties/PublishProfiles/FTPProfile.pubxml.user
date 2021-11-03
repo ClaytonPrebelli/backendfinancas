@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATOs2V6qT+025r4jZfx5efwAAAAACAAAAAAAQZgAAAAEAACAAAAChubFIocmYQq8cZkcj8tUag6PFfj+bLKP/b2Iylie1eQAAAAAOgAAAAAIAACAAAADXkbTGMKjnThBS3w6Q1ZVfqR5xf+yPepuOd2GwlL1QJSAAAADI+qHDMZY1c1gv9ReQGaRGiUAqXWFPNqBnVjM1o0sCKUAAAABczsmWB6Jfx1Nl9WBvfw3AL4BJ8mc2YCs9Rflvs48xc8G12036c98J5tEOxX97tRe4Q4ZfpJCz4Q5PlCi4ILRU</EncryptedPassword>
+    <_PublishTargetUrl>ftp://financasbackend.somee.com/</_PublishTargetUrl>
+    <History>False|2021-11-03T02:05:55.0754902Z;False|2021-11-02T23:04:22.8107493-03:00;</History>
+  </PropertyGroup>
+</Project>
