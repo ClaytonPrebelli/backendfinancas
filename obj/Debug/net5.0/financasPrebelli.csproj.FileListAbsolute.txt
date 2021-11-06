@@ -34,3 +34,10 @@ C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\f
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\ref\financasPrebelli.dll
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.pdb
 C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\obj\Debug\net5.0\financasPrebelli.genruntimeconfig.cache
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\bin\Debug\net5.0\Swashbuckle.AspNetCore.dll
