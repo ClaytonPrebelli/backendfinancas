@@ -13,11 +13,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using financasPrebelli.Data;
+
+
 namespace financasPrebelli
 {
 	public class Startup
 	{
-		readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+		
 		public Startup(IConfiguration configuration)
 		{
 			Configuration = configuration;
@@ -28,20 +30,15 @@ namespace financasPrebelli
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			services.AddCors(options =>
-			{
-				options.AddPolicy(name: MyAllowSpecificOrigins,
-								  builder =>
-								  {
-									  builder.WithOrigins("http://localhost:4200",
-														  "http://127.0.0.1:4200",
-														  "http://localhost");
-									  builder.AllowAnyHeader();
-									  builder.AllowAnyOrigin();
-									  builder.AllowAnyMethod();
-								  });
-			});
 
+			services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+			{
+				builder.AllowAnyOrigin()
+					   .AllowAnyMethod()
+					   .AllowAnyHeader();
+					   
+					   
+			}));
 			services.AddControllers();
 			
 
@@ -74,7 +71,7 @@ namespace financasPrebelli
 			app.UseHttpsRedirection();
 
 			app.UseRouting();
-			app.UseCors(MyAllowSpecificOrigins);
+			app.UseCors("MyPolicy");
 
 			app.UseAuthorization();
 

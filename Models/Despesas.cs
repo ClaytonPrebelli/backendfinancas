@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace financasPrebelli.Models
 {
@@ -22,5 +23,10 @@ namespace financasPrebelli.Models
 		public bool Pago { get; set; }
 		[Required]
 		public int MesRef { get; set; }
+
+		internal void Add(Despesas d)
+		{
+			throw new NotImplementedException();
+		}
 	}
 }

@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>financasPrebelli</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\prebe\source\repos\financasPrebelli\financasPrebelli\Properties\PublishProfiles\financasAPI - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\prebe\source\repos\backendfinancas\Properties\PublishProfiles\financasback - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
